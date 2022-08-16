@@ -1,38 +1,29 @@
-.App {
-  text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  
+    /* Safari seems to support, but seems deprecated and does the same thing as the others. */
+    image-rendering: -webkit-optimize-contrast;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  body{
+    overflow-x: hidden;
+    background: rgb(161,12,14);
+    background: radial-gradient(circle, rgba(161,12,14,1) 0%, rgba(0,0,0,1) 100%);
   }
-  to {
-    transform: rotate(360deg);
+
+  .privacyLink{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
   }
-}
+  .privacyLink a{
+    color: #ffff;
+    text-decoration: none;
+  }

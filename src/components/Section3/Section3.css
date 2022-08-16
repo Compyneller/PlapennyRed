@@ -1,0 +1,38 @@
+.section3__container{
+    background-image: url('../../assets/ribbon-cutting-ceremony-poster-with-red-curtains-vector-illustration/dsgn_23.jpg');
+    width: 100%;
+    min-height: 100vh;
+    background-size: 100% 100%;
+    color: #ffff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section3__container h1{
+    font-size: 3vw;
+}
+.section3__container p{
+    font-size: 1.5vw;
+}
+@media screen  and (max-width : 900px){
+    .section3__container{
+        background-image: url('../../assets/ribbon-cutting-ceremony-poster-with-red-curtains-vector-illustration/dsgn_23.jpg');
+        width: 100%;
+        min-height: 50vh;
+        background-size: 100% 100%;
+        color: #ffff;
+        text-align: center;
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .section3__container h1{
+        font-size: 8vw;
+    }
+    .section3__container p{
+        font-size: 5vw;
+    }
+    
+}

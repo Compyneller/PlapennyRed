@@ -1,0 +1,14 @@
+.section1__container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+/* .section1__container h1{
+    font-size: 2.8vw;
+}
+.section1__container p{
+    font-size: 1.2vw;
+} */
