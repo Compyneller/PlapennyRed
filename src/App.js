@@ -13,6 +13,16 @@ import RummyTips from "./Pages/RummyTips/RummyTips";
 import Leagal from "./Pages/Leagal/Leagal";
 import Faq from "./Pages/Faq/Faq";
 import TC from "./Pages/TermCondition/TC";
+import ProtectedPage from "./Pages/ProtectedPage/ProtectedPage";
+import AccountOverView from "./components/AccountOverView/AccountOverView";
+import AddCash from "./components/AddCash/AddCash";
+import WithdrawCash from "./components/WithdrawCash/WithdrawCash";
+import PersonalDetails from "./components/PersonalDetails/PersonalDetails";
+import Transactions from "./components/Transactions/Transactions";
+import ProtectedRoute from "./components/ProtectedRoute";
+import ForgotPassword from "./Pages/ForgotPassword/ForgotPassword";
+import SignUp from "./Pages/SignUp/SignUp";
+import Login from "./Pages/Login/Login";
 
 function App() {
   return (
@@ -31,6 +41,23 @@ function App() {
           <Route path="/rummy-legal" element={<Leagal />} />
           <Route path="/rummy-faq" element={<Faq />} />
           <Route path="/tc" element={<TC />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/forgot-password" element={<ForgotPassword />} />
+          <Route
+            path="protect"
+            element={
+              <ProtectedRoute>
+                <ProtectedPage />
+              </ProtectedRoute>
+            }
+          >
+            <Route path="account-overview" element={<AccountOverView />} />
+            <Route path="add-cash" element={<AddCash />} />
+            <Route path="withdraw-cash" element={<WithdrawCash />} />
+            <Route path="personal-detail" element={<PersonalDetails />} />
+            <Route path="transactions" element={<Transactions />} />
+          </Route>
         </Routes>
       </BrowserRouter>
     </div>
