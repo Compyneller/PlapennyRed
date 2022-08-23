@@ -17,9 +17,9 @@ const Promotion = () => {
       <NavBarComp />
 
       <HotDeals />
-      <Other />
+      {/* <Other /> */}
       <MidText />
-      <TableComp />
+      {/* <TableComp /> */}
       <RummyCode />
       <br />
       <br />

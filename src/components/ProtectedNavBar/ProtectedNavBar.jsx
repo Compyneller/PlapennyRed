@@ -5,6 +5,8 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Offcanvas from "react-bootstrap/Offcanvas";
 import { useUserAuth } from "../../context/AuthContext";
+import logo1 from "../../assets/logo1.png";
+import logo2 from "../../assets/logo2.png";
 const ProtectedNavBar = ({ bg }) => {
   const { logOut } = useUserAuth();
   const handleLogout = async () => {
@@ -28,7 +30,13 @@ const ProtectedNavBar = ({ bg }) => {
           }}
         >
           <Container>
-            <Navbar.Brand href="/">PlayPenny</Navbar.Brand>
+            <Navbar.Brand href="/">
+              {" "}
+              <div className="d-flex align-items-center">
+                <img src={logo1} alt="" style={{ height: "6vh" }} />
+                <img src={logo2} alt="" style={{ height: "4vh" }} />
+              </div>
+            </Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
             <Navbar.Offcanvas
               id={`offcanvasNavbar-expand-${expand}`}
@@ -37,7 +45,10 @@ const ProtectedNavBar = ({ bg }) => {
             >
               <Offcanvas.Header closeButton>
                 <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                  PlayPenny
+                  <div className="d-flex align-items-center">
+                    <img src={logo1} alt="" style={{ height: "6vh" }} />
+                    <img src={logo2} alt="" style={{ height: "4vh" }} />
+                  </div>
                 </Offcanvas.Title>
               </Offcanvas.Header>
               <Offcanvas.Body>
@@ -45,8 +56,8 @@ const ProtectedNavBar = ({ bg }) => {
                   <Nav.Link href="/">Lobby</Nav.Link>
                   <Nav.Link href="/promotion">My Account</Nav.Link>
                   <Nav.Link href="/how-to-play">Bring a friend</Nav.Link>
-                  <Nav.Link href="/leaderboard">Leader board</Nav.Link>
-                  <Nav.Link href="/leaderboard">PlayPenny Rewards</Nav.Link>
+                  {/* <Nav.Link href="/leaderboard">Leader board</Nav.Link> */}
+                  <Nav.Link href="/leaderboard">Deccan Rummy Rewards</Nav.Link>
                   <Nav.Link href="/leaderboard">Promotions Rewards</Nav.Link>
                   <Nav.Link href="/login">
                     <Button variant="danger" onClick={handleLogout}>

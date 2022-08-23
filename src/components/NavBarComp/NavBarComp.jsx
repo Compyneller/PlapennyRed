@@ -23,11 +23,7 @@ const NavBarComp = ({ bg }) => {
             <Navbar.Brand href="/">
               <div className="d-flex align-items-center">
                 <img src={logo1} alt="" style={{ height: "6vh" }} />
-                <img
-                  src={logo2}
-                  alt=""
-                  style={{ height: "4vh", filter: "invert(1)" }}
-                />
+                <img src={logo2} alt="" style={{ height: "4vh" }} />
               </div>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
@@ -50,7 +46,7 @@ const NavBarComp = ({ bg }) => {
                   <Nav.Link href="/about-us">About Us</Nav.Link>
                   <Nav.Link href="/promotion">Promotions</Nav.Link>
                   <Nav.Link href="/how-to-play">How to Play</Nav.Link>
-                  <Nav.Link href="/leaderboard">Leaderboard</Nav.Link>
+                  {/* <Nav.Link href="/leaderboard">Leaderboard</Nav.Link> */}
 
                   <Nav.Link href="/login">Login</Nav.Link>
                 </Nav>

@@ -23,6 +23,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import ForgotPassword from "./Pages/ForgotPassword/ForgotPassword";
 import SignUp from "./Pages/SignUp/SignUp";
 import Login from "./Pages/Login/Login";
+import OTP from "./Pages/OTP/OTP";
 
 function App() {
   return (
@@ -34,6 +35,8 @@ function App() {
           <Route path="/promotion" element={<Promotion />} />
           <Route path="/how-to-play" element={<HowToPlay />} />
           <Route path="/leaderboard" element={<Leaderboard />} />
+          <Route path="/otp" element={<OTP />} />
+
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/disclaimer" element={<Disclaimer />} />
           <Route path="/rummy-rules" element={<RummyRules />} />
@@ -44,6 +47,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/forgot-password" element={<ForgotPassword />} />
+
           <Route
             path="protect"
             element={

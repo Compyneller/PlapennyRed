@@ -13,7 +13,7 @@ const PRComp = () => {
         winning amount calculated as; (sum of points of all opponents) x
         (monetary value of 1 point). <br />
         <br />
-        Points Rummy can be played with 2 to 6 players at PlayPenny. It is
+        Points Rummy can be played with 2 to 6 players at Deccan Rummy. It is
         usually played with one or two packs of standard 52 deck card in
         addition to a printed joker. The variant is mostly preferred because of
         its quick gameplay. Unlike the other variants you do not have to go

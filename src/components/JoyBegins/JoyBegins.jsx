@@ -7,7 +7,7 @@ const JoyBegins = () => {
       className=" py-5 d-flex flex-column text-light align-items-center justify-content-center"
       style={{ minHeight: " 50vh" }}
     >
-      <h1 className="text-center">PLAYPENNY - THE JOY BEGINS</h1>
+      <h1 className="text-center">DECCAN RUMMY - THE JOY BEGINS</h1>
       <br />
       <br />
       <Row className="g-3">
@@ -29,7 +29,7 @@ const JoyBegins = () => {
         <Col sm={12} lg={4}>
           <Card className="bg-dark text-light" style={{ height: "100%" }}>
             <Card.Body>
-              <h3>How to Play Rummy on Playpenny?</h3>
+              <h3>How to Play Rummy on Deccan Rummy?</h3>
               <ul>
                 <li>No of Players - 2 to 6</li>
                 <li>No of Cards - 2 deck of cards</li>
@@ -43,9 +43,9 @@ const JoyBegins = () => {
         <Col sm={12} lg={4}>
           <Card className="bg-dark text-light" style={{ height: "100%" }}>
             <Card.Body>
-              <h3>How to Login Playpenny?</h3>
+              <h3>How to Login Deccan Rummy?</h3>
               <ul>
-                <li>Browse the Playpenny website</li>
+                <li>Browse the Deccan Rummy website</li>
                 <li>New users click ‘Signup’ and enter no.</li>
                 <li>Enter OTP & login easily</li>
                 <li>Old users can directly login</li>

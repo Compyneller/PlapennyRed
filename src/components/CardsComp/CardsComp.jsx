@@ -13,7 +13,7 @@ const CardsComp = () => {
           lg={6}
           className="text-light d-flex align-items-center flex-column justify-content-center text-center"
         >
-          <h1>BENEFITS OF PLAYPENNY</h1>
+          <h1>BENEFITS OF DECCAN RUMMY</h1>
           <Row className="g-3">
             <Col sm={6} lg={6}>
               <Card className="bg-dark">

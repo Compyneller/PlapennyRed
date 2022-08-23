@@ -58,12 +58,12 @@ const PoolComp = () => {
       </p>
       <br />
       <h5>How to Play Pool Rummy?</h5>
-      <li>Login to PlayPenny</li>
+      <li>Login to Deccan Rummy</li>
       <li>
         In the lobby, click on Cash - Pool, select the table which you want to
         play, click on Join and click on join table in the pop-up to confirm
         your participation. 101 points and 201 points are the two variants of
-        pool rummy offered by PlayPenny.
+        pool rummy offered by Deccan Rummy.
       </li>
       <li>
         Every table has an entry fee to join. Players are requested to check if
@@ -116,7 +116,8 @@ const PoolComp = () => {
       <p>
         The winning amount in Pool Rummy is calculated as follows: <br />
         <br />
-        Winning Amount = Total entry fee of all Players – PlayPenny fee <br />
+        Winning Amount = Total entry fee of all Players – Deccan Rummy fee{" "}
+        <br />
         <br />
         Eg: If 3 players participate with an entry fee of 250, Amount earned by
         winner = (750 – Our service charge) <br />

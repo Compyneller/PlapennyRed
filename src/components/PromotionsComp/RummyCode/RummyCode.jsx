@@ -6,7 +6,7 @@ const RummyCode = () => {
     <Container className="text-light">
       <h3>Rummy Bonus Code</h3>
       <p>
-        PlayPenny is a dream destination for players looking for a generous
+        Deccan Rummy is a dream destination for players looking for a generous
         welcome bonus offer.
         <br />
         Play the cash rummy with the best rewarding bonus package available

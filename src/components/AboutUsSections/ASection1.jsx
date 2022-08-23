@@ -12,13 +12,13 @@ const ASection1 = () => {
         >
           <h1>ABOUT US</h1>
           <p>
-            PlayPenny is an online gaming website, which provides players a
-            platform to play online 13 cards and rummy games.PlayPenny provides
-            you with the ultimate 13-card rummy experience and also an
+            Deccan Rummy is an online gaming website, which provides players a
+            platform to play online 13 cards and rummy games.Deccan Rummy
+            provides you with the ultimate 13-card rummy experience and also an
             opportunity to win exciting cash prizes. We present unique features
             to provide our players with an unforgettable gaming experience and
             we always strive to deliver the Best Rummy Experience to our
-            players. Playing at PlayPenny will fill your pockets & also a
+            players. Playing at Deccan Rummy will fill your pockets & also a
             powerful dose of entertainment.
           </p>
         </Col>

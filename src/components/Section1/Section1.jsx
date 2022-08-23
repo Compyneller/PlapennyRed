@@ -12,11 +12,12 @@ const Section1 = () => {
             lg={6}
             className="text-light d-flex flex-column justify-content-center"
           >
-            <h1>PLAYPENNY - TOPMOST WEBSITE TO PLAY POPULAR RUMMY GAMES</h1>
+            <h1>DECCAN RUMMY - TOPMOST WEBSITE TO PLAY POPULAR RUMMY GAMES</h1>
             <h5>
-              Register for free with Playpenny and start playing rummy online.
-              Playpenny is a user-friendly website which offers multiple games
-              online. Show us your rummy skills and win exciting prizes.
+              Register for free with Deccan Rummy and start playing rummy
+              online. Deccan Rummy is a user-friendly website which offers
+              multiple games online. Show us your rummy skills and win exciting
+              prizes.
             </h5>
           </Col>
           <Col sm={12} lg={6}>

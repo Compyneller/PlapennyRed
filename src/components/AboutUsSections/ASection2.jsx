@@ -18,13 +18,13 @@ const ASection2 = () => {
         >
           <h1>Who are we?</h1>
           <p>
-            PlayPenny has a dedicated team of designers and developers with huge
-            experience in the online gaming platform. The exciting theme, smooth
-            user experience, and vibrant design let our gamers play without any
-            hassle. The high standard of the PlayPenny in the gaming industry
-            will give you the best experience on the rummy platform for the
-            community of online players. Start playing rummy games and win
-            exciting prizes & bonuses.
+            Deccan Rummy has a dedicated team of designers and developers with
+            huge experience in the online gaming platform. The exciting theme,
+            smooth user experience, and vibrant design let our gamers play
+            without any hassle. The high standard of the Deccan Rummy in the
+            gaming industry will give you the best experience on the rummy
+            platform for the community of online players. Start playing rummy
+            games and win exciting prizes & bonuses.
           </p>
         </Col>
       </Row>

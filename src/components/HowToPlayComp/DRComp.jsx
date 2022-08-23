@@ -15,7 +15,7 @@ const DRComp = () => {
         of cards will be used. Each pack has 53 cards including a printed joker.{" "}
         <br />
         <br />
-        At PlayPenny deals rummy is offered in two variants, Best of two and
+        At Deccan Rummy deals rummy is offered in two variants, Best of two and
         Best of six rummy games where the number of deals are pre-decided. This
         means only 2 or 6 players can participate in Deals rummy offered by us.
         Deals in this context refer to the number of rounds.
@@ -126,10 +126,11 @@ const DRComp = () => {
       <p>
         Winner Earnings can be calculated as follows <br />
         <br />
-        Winning Amount = Total entry fee of all Players – PlayPenny fees <br />
+        Winning Amount = Total entry fee of all Players – Deccan Rummy fees{" "}
+        <br />
         <br />
         Example: In a 2-player deal game on Rs. 500 Table, if player 1 wins the
-        game then he will receive Rs. 1000 – PlayPenny Service Fee. <br />
+        game then he will receive Rs. 1000 – Deccan Rummy Service Fee. <br />
         <br />
         However, in a 6 deal rummy card game, prize amount after the deduction
         of the rake fee will be splitted in the ratio 60:40 between the winner

@@ -168,7 +168,7 @@ const SignUp = () => {
                   className="text-info"
                   style={{ fontWeight: "bold" }}
                 >
-                  Login In.
+                  Login
                 </Link>
               </form>
             </Card.Text>
