@@ -18,7 +18,7 @@ const Disclaimer = () => {
         <h1>DISCLAIMER</h1>
         <br />
         <p>
-          PlayPenny reserves the right to amend, modify, update, substitute,
+          Deccan Rummy reserves the right to amend, modify, update, substitute,
           suspend or delete any information contained herein, including the
           information posted in any public area or chat room.
         </p>
@@ -47,8 +47,8 @@ const Disclaimer = () => {
           </li>
           <li>
             Trademarks, logos and all other intellectual property displayed on
-            PlayPenny’s site are registered/unregistered marks of PlayPenny and
-            no user has the right to use our copyright property.
+            Deccan Rummy’s site are registered/unregistered marks of Deccan
+            Rummy and no user has the right to use our copyright property.
           </li>
           <li>
             Reproducing any information available here is strictly prohibited
@@ -64,8 +64,8 @@ const Disclaimer = () => {
             We do not endorse any of the commercial advertisements displayed on
             its website that seem to promote mercantile or any other services by
             third party agencies. Players have to respond to any such mercantile
-            or any services advertised on PlayPenny.com at their own risk, and
-            we must not be held responsible for loss, damages or any injury
+            or any services advertised on Deccan Rummy.com at their own risk,
+            and we must not be held responsible for loss, damages or any injury
             arising out of such responses.
           </li>
         </ul>

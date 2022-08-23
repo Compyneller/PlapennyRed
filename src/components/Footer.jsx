@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="bg-dark" style={{ width: "100%", padding: "3rem 0" }}>
       <Container className="text-center text-light">
-        <Row className="g-3">
+        <Row className="g-3 d-flex justify-content-center">
           <div className="col-6 col-lg-3 privacyLink ">
             <Link
               className="text-light"
@@ -59,50 +59,6 @@ const Footer = () => {
             >
               FAQ
             </Link>
-          </div>
-
-          <div className="col-6 col-lg-3">
-            <h5>CONTACT US</h5>
-            <a href="mailto:support@playpenny.in" style={{ color: "#ffff" }}>
-              support@playpenny.in
-            </a>
-          </div>
-          <div className="col-6 col-lg-3">
-            <h5>FOLLOW US</h5>
-            <div className="row g-2">
-              <div className="col-3">
-                <img
-                  style={{ filter: "invert(1)" }}
-                  src="https://img.icons8.com/ios-filled/344/facebook-new.png"
-                  alt=""
-                  className="w-50"
-                />
-              </div>
-              <div className="col-3">
-                <img
-                  style={{ filter: "invert(1)" }}
-                  src="https://img.icons8.com/ios-filled/344/instagram-new--v1.png"
-                  alt=""
-                  className="w-50"
-                />
-              </div>
-              <div className="col-3">
-                <img
-                  style={{ filter: "invert(1)" }}
-                  src="https://img.icons8.com/ios-glyphs/344/twitter--v1.png"
-                  alt=""
-                  className="w-50"
-                />
-              </div>
-              <div className="col-3">
-                <img
-                  style={{ filter: "invert(1)" }}
-                  src="https://img.icons8.com/ios-filled/344/linkedin-circled--v1.png"
-                  alt=""
-                  className="w-50"
-                />
-              </div>
-            </div>
           </div>
         </Row>
       </Container>

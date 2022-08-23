@@ -33,7 +33,7 @@ const Faq = () => {
         <p>
           <b>A2-</b>
           <ol>
-            <li>Sign up at PlayPenny</li>
+            <li>Sign up at Deccan Rummy</li>
             <li>
               Read the rules properly and master the rummy rules in our site to
               know about the rummy game.
@@ -46,7 +46,7 @@ const Faq = () => {
         </p>
         <br />
         <p>
-          <b>Q3- Is my cash safe at PlayPenny? </b>
+          <b>Q3- Is my cash safe at Deccan Rummy? </b>
         </p>
         <p>
           <b>A3-</b> After mastering your skills by playing practice games,
@@ -73,7 +73,7 @@ const Faq = () => {
         <p>
           <b>A5-</b>
           You can invite your friends & family and play rummy online with them.
-          And in return, PlayPenny will give you rewards on every successful
+          And in return, Deccan Rummy will give you rewards on every successful
           invite.
         </p>
       </Container>

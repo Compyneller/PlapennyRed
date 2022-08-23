@@ -21,10 +21,10 @@ const RummyTips = () => {
         <p>
           Rummy is a popular card game played by millions of Indians everyday,
           who are always eager to score a win and be the champion. The rummy
-          game on the PlayPenny has different variants, but the 13 card game is
-          much popular & loved in India. The game's primary objective is to be
-          the fastest in making pure and impure sequences. Players can pick and
-          discard a card from a pile to form these sequences. Here are some
+          game on the Deccan Rummy has different variants, but the 13 card game
+          is much popular & loved in India. The game's primary objective is to
+          be the fastest in making pure and impure sequences. Players can pick
+          and discard a card from a pile to form these sequences. Here are some
           simple tricks and tips for setting you ahead of the ‘pack.’ Best tips
           to win a rummy game:
         </p>

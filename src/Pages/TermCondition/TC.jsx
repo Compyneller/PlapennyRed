@@ -21,8 +21,8 @@ const TC = () => {
         <h5>Introduction</h5>
         <p>
           Any products or services relating to the games (referred to as
-          Services) offered by PlayPenny and its subsidiaries, sister concern
-          and partners through our website www.Playpenny.com (which will be
+          Services) offered by Deccan Rummy and its subsidiaries, sister concern
+          and partners through our website www.deccanrummy.co.in (which will be
           referred just as "Website") is framed with these Terms of Service
           (affiliates which is referred to as the "Terms"). It includes Help,
           Privacy Policy, Add Cash, My Account, Promotions and Bring-A-Friend
@@ -30,7 +30,8 @@ const TC = () => {
           are requested to comply with the terms and conditions and abide by it
           even if any modifications to the terms and conditions are made. <br />
           The decision to deal with a violation is entirely at the discretion of
-          Playpenny. Users are sternly warned to comply with the rules. <br />
+          Deccan Rummy. Users are sternly warned to comply with the rules.{" "}
+          <br />
           All the promotions, game, events, competition or tournaments organized
           are governed by the terms and conditions described here and also
           supplementary terms and conditions may be applicable with respect to
@@ -85,14 +86,14 @@ const TC = () => {
         <br />
         <h5>Service Charge:</h5>
         <p>
-          Playpenny provides valid, registered Users the opportunity to access
-          and play online games of skill. Our Company provides software and IT
-          services to enable games of skill to be played with other individuals
-          over the internet. The Services provided by our Company are only
-          intended to facilitate games of skill. Playpenny levies Service charge
-          for all Cash Games, which would be inclusive of service tax as may be
-          applicable. The Service Charge may vary from time to time and from one
-          cash game to another.
+          Deccan Rummy provides valid, registered Users the opportunity to
+          access and play online games of skill. Our Company provides software
+          and IT services to enable games of skill to be played with other
+          individuals over the internet. The Services provided by our Company
+          are only intended to facilitate games of skill. Deccan Rummy levies
+          Service charge for all Cash Games, which would be inclusive of service
+          tax as may be applicable. The Service Charge may vary from time to
+          time and from one cash game to another.
         </p>
         <ol>
           <li>
@@ -140,7 +141,7 @@ const TC = () => {
             Players must confirm that they are at least 18 years old to
             participate in the cash games. You are well aware of the fact that
             participation in these games could cause a financial loss to you.
-            You indemnify and will not hold Playpenny nor anyone who are
+            You indemnify and will not hold Deccan Rummy nor anyone who are
             associated with it liable for any of your losses.
           </li>
           <li>
@@ -169,8 +170,8 @@ const TC = () => {
             may include your name, username, location, messages, gender or
             pictures. We want to make it clear that you do not obtain any
             rights, in any material developed by us using your published
-            content. Playpenny has the right to use all of your communications
-            and feedback.
+            content. Deccan Rummy has the right to use all of your
+            communications and feedback.
           </li>
           <li>
             We wish to notify you that our company reserves the right to record
@@ -179,11 +180,11 @@ const TC = () => {
             interactive features
           </li>
           <li>
-            You must understand that funds in user accounts held by Playpenny do
-            not carry any interest on return.
+            You must understand that funds in user accounts held by Deccan Rummy
+            do not carry any interest on return.
           </li>
           <li>
-            Playpenny would not be held accountable when you are not able to
+            Deccan Rummy would not be held accountable when you are not able to
             play any Game for which you may have been eligible to participate.
             This includes situations when you are unable to log into your user
             account as your user account may be pending validation or you may be
@@ -193,7 +194,7 @@ const TC = () => {
             We assume you are participating in our games based on your skills
             and you are aware of any physical or mental condition that could
             hinder your competence in such games. You must hold yourself
-            accountable for all your actions here. Playpenny assumes no
+            accountable for all your actions here. Deccan Rummy assumes no
             responsibility for your financial losses.
           </li>
         </ul>
@@ -224,11 +225,12 @@ const TC = () => {
           </li>
           <li>
             Players confirm accepting our terms and conditions by registering
-            Playpenny user account must solely be used for playing games online
-            and for transacting. Any use or attempted use of your account apart
-            from the reasons specified would result in a ban or termination of
-            the account and forfeiture of any prize, bonus or balance in the
-            user account, as it is a clear violation of the terms stated here.
+            Deccan Rummy user account must solely be used for playing games
+            online and for transacting. Any use or attempted use of your account
+            apart from the reasons specified would result in a ban or
+            termination of the account and forfeiture of any prize, bonus or
+            balance in the user account, as it is a clear violation of the terms
+            stated here.
           </li>
           <li>
             At times, we may require documentary evidence (any government
@@ -238,16 +240,16 @@ const TC = () => {
           </li>
 
           <li>
-            Playpenny will not ask the details about the player's Login ID and
-            password which needs only to be entered at the time of login. At no
-            other instance, the player shall share his/her account details with
-            anyone. Playpenny will hold no liability when the player’s account
-            is misused or exposed, when he/she shares his account details. The
-            only way to prevent others from using your account is by not sharing
-            your details with anyone else. Keep changing your rummy accounts
-            password if you feel your desktop, laptop and mobiles are used by
-            your others frequently. Also do not forget to log out of your
-            PlayPenny Rummy account, whenever you are not playing.
+            Deccan Rummy will not ask the details about the player's Login ID
+            and password which needs only to be entered at the time of login. At
+            no other instance, the player shall share his/her account details
+            with anyone. Deccan Rummy will hold no liability when the player’s
+            account is misused or exposed, when he/she shares his account
+            details. The only way to prevent others from using your account is
+            by not sharing your details with anyone else. Keep changing your
+            rummy accounts password if you feel your desktop, laptop and mobiles
+            are used by your others frequently. Also do not forget to log out of
+            your Deccan Rummy Rummy account, whenever you are not playing.
           </li>
           <li>
             You must understand that it is your responsibility to protect
@@ -260,8 +262,8 @@ const TC = () => {
           </li>
           <li>
             The deposits made in your account cannot be transferred to any other
-            registered account except in cases permitted by Playpenny which is
-            subject to restrictions and conditions
+            registered account except in cases permitted by Deccan Rummy which
+            is subject to restrictions and conditions
           </li>
           <li>
             We rest the case of providing correct information about yourself on
@@ -274,7 +276,7 @@ const TC = () => {
         <h5>Validating User Accounts</h5>
         <ul>
           <li>
-            Playpenny might validate user accounts from time to time. For
+            Deccan Rummy might validate user accounts from time to time. For
             verification, attempts can be made via phone calls or email. In the
             event we couldn’t reach you for the first time, we will make
             additional attempts to establish a connection with you. But if an
@@ -375,7 +377,7 @@ const TC = () => {
           </li>
           <li>is aimed at soliciting donations or any other form of help;</li>
           <li>
-            disparage or demean in any manner Playpenny or any of its
+            disparage or demean in any manner Deccan Rummy or any of its
             subsidiaries, affiliates, licensors, associates, partners, sponsors,
             products, services, or websites;
           </li>
@@ -394,7 +396,7 @@ const TC = () => {
             such other laws in force in India at the relevant time) that might
             interrupt, destroy, limit the functionality or disrupt any software,
             hardware or other equipment belonging to us or that aids in
-            providing the services offered by Playpenny.
+            providing the services offered by Deccan Rummy.
           </li>
           <li>
             Players should not disseminate or upload viruses, programs, or
@@ -416,11 +418,11 @@ const TC = () => {
             transfer any winnings, bonuses or prizes, those would be forfeited.
           </li>
           <li>
-            If you are an employee, consultant or agent of Playpenny or a
+            If you are an employee, consultant or agent of Deccan Rummy or a
             relative of such persons ("Associated Person''), then you are not
             permitted to play either directly or indirectly, any Games that
             entitles you to any prize on the Website, other than in the course
-            of your engagement with Playpenny. The term 'relative' includes
+            of your engagement with Deccan Rummy. The term 'relative' includes
             spouse and financially dependent parents, and children.
           </li>
           <li>
@@ -452,7 +454,7 @@ const TC = () => {
             serious offenses and it is strictly prohibited.
           </li>
           <li>
-            Users must not access or try to access the services on Playpenny
+            Users must not access or try to access the services on Deccan Rummy
             through someone else's user account.
           </li>
           <li>
@@ -475,12 +477,13 @@ const TC = () => {
           <li>
             All the transactions in your account are recorded in your user
             account, once you register with us. All the payments required for
-            participation in cash games at Playpenny should be made through this
-            account. The cash prizes you win will be credited to this account.
+            participation in cash games at Deccan Rummy should be made through
+            this account. The cash prizes you win will be credited to this
+            account.
           </li>
           <li>
             Payments through credit cards, debit cards, and internet banking
-            will be processed through third party payment gateways. Playpenny
+            will be processed through third party payment gateways. Deccan Rummy
             will not be responsible for any delays or denials in payment
             processing.
           </li>
@@ -503,9 +506,9 @@ const TC = () => {
             bank to bank transfer.
           </li>
           <li>
-            Players are not allowed to use PlayPenny Rummy as the place to park
-            their unused funds. Money laundering is strictly prohibited on our
-            site. Attempting to withdraw cash added through credit cards is
+            Players are not allowed to use Deccan Rummy Rummy as the place to
+            park their unused funds. Money laundering is strictly prohibited on
+            our site. Attempting to withdraw cash added through credit cards is
             considered as money laundering and it must be avoided.
           </li>
           <li>
@@ -554,18 +557,18 @@ const TC = () => {
           </li>
         </ul>
         <br />
-        <h5>PlayPenny Reward</h5>
+        <h5>Deccan Rummy Reward</h5>
         <p>
-          The Details about the PlayPenny Rewards program are provided in the
-          PlayPenny Rewards section in the Website. We reserve the right to
-          alter, discontinue PlayPenny Rewards Program any time without notice
-          and without any liability.
+          The Details about the Deccan Rummy Rewards program are provided in the
+          Deccan Rummy Rewards section in the Website. We reserve the right to
+          alter, discontinue Deccan Rummy Rewards Program any time without
+          notice and without any liability.
         </p>
         <br />
         <h5>Discontinuing services</h5>
         <p>
           If a player desires to voluntarily discontinue the use of the Services
-          on our Website any time, they can email us at support@playpenny.com.
+          on our Website any time, they can email us at support@DeccanRummy.com.
           If there is a positive withdrawable cash balance in their user account
           that time, we will disburse your amount to you through online transfer
           subject to satisfactory verification process.
@@ -584,8 +587,8 @@ const TC = () => {
             Our websites may have hyperlinks that link to third parties. We do
             not hold responsibility for the information in the website nor do we
             endorse the content published on the third party websites. Users are
-            advised to access those websites at their own risk. Playpenny cannot
-            be held accountable for such issues.
+            advised to access those websites at their own risk. Deccan Rummy
+            cannot be held accountable for such issues.
           </li>
           <li>
             Any visit to a third party website through a hyperlink here means,
@@ -612,7 +615,7 @@ const TC = () => {
           <li>
             Players must acknowledge that all ownership rights and all
             copyrighted and other intellectual property rights in our Content
-            are owned by Playpenny or our licensors and they have no right to
+            are owned by Deccan Rummy or our licensors and they have no right to
             title or other interest in any items except as explicitly stated in
             our Terms.
           </li>
@@ -653,23 +656,23 @@ const TC = () => {
           </li>
           <li>
             If the player is unable to play the game owing to a disruption that
-            can be attributed to Playpenny, the settlement of such games would
-            be done as per our Games Cancellation Settlement Policy.
+            can be attributed to Deccan Rummy, the settlement of such games
+            would be done as per our Games Cancellation Settlement Policy.
           </li>
           <li>
             We would like to clarify that our company disclaims any liability on
             Games that doesn’t require you to pay money.
           </li>
           <li>
-            We would like to reiterate that Playpenny would not be liable to pay
-            the user or anyone for any of the above said circumstances.
+            We would like to reiterate that Deccan Rummy would not be liable to
+            pay the user or anyone for any of the above said circumstances.
           </li>
         </ul>
         <br />
         <h5>Reasons for User Account Suspension</h5>
         <ul>
           <li>
-            Playpenny reserves the right to suspend or otherwise restrict the
+            Deccan Rummy reserves the right to suspend or otherwise restrict the
             player’s access to our Services on our Website during investigation
             for any the below listed reasons:
           </li>
@@ -694,7 +697,7 @@ const TC = () => {
             In case we detect a breach of terms and condition during our
             investigation or if there are elements of doubt that your continued
             access might be detrimental to our interests or any other users, or
-            even general public; Playpenny has the discretion of taking the
+            even general public; Deccan Rummy has the discretion of taking the
             following actions:
           </li>
           <li>A player’s user account can be permanently suspended</li>
@@ -714,11 +717,11 @@ const TC = () => {
             charges
           </li>
           <li>
-            Playpenny’s decision to initiate action to be taken on such breaches
-            shall be final and binding on the player
+            Deccan Rummy’s decision to initiate action to be taken on such
+            breaches shall be final and binding on the player
           </li>
           <li>
-            Playpenny’s action against players who breach our terms and
+            Deccan Rummy’s action against players who breach our terms and
             conditions would be taken without any prejudice to the rights and
             remedies available in law or equity.
           </li>
@@ -727,9 +730,9 @@ const TC = () => {
         <h5>Modification and Alteration to Terms</h5>
         <ul>
           <li>
-            Playpenny reserves the right to alter or modify the Terms any time
-            without giving any prior notice to the players. We might notify of
-            some of the changes in the Terms either by sending an email or by
+            Deccan Rummy reserves the right to alter or modify the Terms any
+            time without giving any prior notice to the players. We might notify
+            of some of the changes in the Terms either by sending an email or by
             displaying a message on the Website;
           </li>
           <li>
@@ -752,10 +755,10 @@ const TC = () => {
           <li>
             Our limitation of liability is mentioned clearly in the terms and
             conditions so under no circumstances (without limitation, in
-            contract, negligence or other tort), Playpenny could be held liable
-            for any loss of profit or loss of opportunity, loss of data, injury,
-            loss of income, claim, loss of or damage to property, any general
-            damages or any direct, indirect, incidental, consequential,
+            contract, negligence or other tort), Deccan Rummy could be held
+            liable for any loss of profit or loss of opportunity, loss of data,
+            injury, loss of income, claim, loss of or damage to property, any
+            general damages or any direct, indirect, incidental, consequential,
             exemplary, special or punitive damages of any kind that may arise
             out of or in connection with your access or inability to access or
             use, the Services on our Website. The player must further agree to
@@ -764,8 +767,8 @@ const TC = () => {
           </li>
           <li>
             In addition to the aforesaid situations players must specifically
-            acknowledge, agree and accept that Playpenny cannot assume liability
-            for:
+            acknowledge, agree and accept that Deccan Rummy cannot assume
+            liability for:
           </li>
           <li>
             Losses the players can incur arising from their use, abuse or misuse
@@ -826,12 +829,12 @@ const TC = () => {
             permissible by law.
           </li>
           <li>
-            Playpenny does not promise or ensure that the player would be able
-            to access their user accounts or play rummy and earn money whenever
-            they want. Instances, where the player might not be able to access
-            their accounts or the services provided by us at times or even for
-            an extended period of time could be possible reasons not limited to
-            system maintenance and updates.
+            Deccan Rummy does not promise or ensure that the player would be
+            able to access their user accounts or play rummy and earn money
+            whenever they want. Instances, where the player might not be able to
+            access their accounts or the services provided by us at times or
+            even for an extended period of time could be possible reasons not
+            limited to system maintenance and updates.
           </li>
           <li>
             We do not ensure or guarantee continuous, error-free, secure or
@@ -841,12 +844,12 @@ const TC = () => {
             our website.
           </li>
           <li>
-            Playpenny specifically disclaims any liability with respect to the
-            cancellation or denial of Games or events organized on the website
-            which may require specific statutory permissions.
+            Deccan Rummy specifically disclaims any liability with respect to
+            the cancellation or denial of Games or events organized on the
+            website which may require specific statutory permissions.
           </li>
           <li>
-            Playpenny disclaims any responsibility and liability for any harm
+            Deccan Rummy disclaims any responsibility and liability for any harm
             resulting from the cancellation of any Game organized by it. Players
             must acknowledge and agree that they will not be entitled to any
             refund in case of any service outage that could be caused by
@@ -855,27 +858,27 @@ const TC = () => {
             cause beyond our control
           </li>
           <li>
-            Playpenny disclaims any liability in connection with the
+            Deccan Rummy disclaims any liability in connection with the
             transactions the players could make with third parties that may have
             advertisements or are hyperlinked on our Website.
           </li>
           <li>
-            Playpenny is not liable for any potential winnings for unfinished
+            Deccan Rummy is not liable for any potential winnings for unfinished
             games.
           </li>
           <li>
-            Playpenny specifically disclaims any liability that might arise
+            Deccan Rummy specifically disclaims any liability that might arise
             because of the acts or omissions of the infrastructure providers or
             failure of internet services used for providing and accessing our
             Services.
           </li>
           <li>
-            Playpenny cannot assume liability for any risk or loss resulting
+            Deccan Rummy cannot assume liability for any risk or loss resulting
             from their participation in Cash Games, including all risk of
             financial loss.
           </li>
           <li>
-            Playpenny disclaims any responsibility in connection with the
+            Deccan Rummy disclaims any responsibility in connection with the
             violation of intellectual property rights of any party with respect
             to third party Content or user content posted on our Website.
           </li>
@@ -938,15 +941,15 @@ const TC = () => {
         <h5>Complaints & disputes</h5>
         <p>
           Complaints may be registered at the first instance by contacting our
-          customer support team at support@playpenny.com or by writing to us in
-          the “Contact Us” section. Players must act in haste if any if any
-          circumstances arise that is causing you to have a complaint. Playpenny
-          would take our best efforts in resolving such complaints within a
-          reasonable span of time. Playpenny’s decision on complaints would be
-          final and binding on the player who initiated the complaint. Players
-          must maintain the secrecy and resolution provided for their complaints
-          and should refrain from disclosing it to in any nature to third
-          parties.
+          customer support team at support@Deccan Rummy.com or by writing to us
+          in the “Contact Us” section. Players must act in haste if any if any
+          circumstances arise that is causing you to have a complaint. Deccan
+          Rummy would take our best efforts in resolving such complaints within
+          a reasonable span of time. Deccan Rummy’s decision on complaints would
+          be final and binding on the player who initiated the complaint.
+          Players must maintain the secrecy and resolution provided for their
+          complaints and should refrain from disclosing it to in any nature to
+          third parties.
         </p>
       </Container>
       <Footer />
