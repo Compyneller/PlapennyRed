@@ -60,6 +60,15 @@ const Footer = () => {
               FAQ
             </Link>
           </div>
+          <div className="col-6 col-lg-3">
+            <h5>CONTACT US</h5>
+            <a
+              href="mailto:deccanrummyhelp@gmail.com"
+              style={{ color: "#ffff" }}
+            >
+              deccanrummyhelp@gmail.com
+            </a>
+          </div>
         </Row>
       </Container>
     </div>

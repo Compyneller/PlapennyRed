@@ -24,6 +24,7 @@ import ForgotPassword from "./Pages/ForgotPassword/ForgotPassword";
 import SignUp from "./Pages/SignUp/SignUp";
 import Login from "./Pages/Login/Login";
 import OTP from "./Pages/OTP/OTP";
+import FooterText from "./components/FooterText";
 
 function App() {
   return (
@@ -63,6 +64,7 @@ function App() {
             <Route path="transactions" element={<Transactions />} />
           </Route>
         </Routes>
+        <FooterText />
       </BrowserRouter>
     </div>
   );

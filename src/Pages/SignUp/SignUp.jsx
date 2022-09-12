@@ -148,6 +148,7 @@ const SignUp = () => {
                           aria-label="Username"
                           aria-describedby="basic-addon1"
                           onChange={handleInput}
+                          style={{ background: "none" }}
                         />
                       </InputGroup>
                     </div>

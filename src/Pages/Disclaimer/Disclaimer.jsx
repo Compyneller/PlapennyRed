@@ -64,9 +64,10 @@ const Disclaimer = () => {
             We do not endorse any of the commercial advertisements displayed on
             its website that seem to promote mercantile or any other services by
             third party agencies. Players have to respond to any such mercantile
-            or any services advertised on Deccan Rummy.com at their own risk,
-            and we must not be held responsible for loss, damages or any injury
-            arising out of such responses.
+            or any services advertised on{" "}
+            <a href="https://deccanrummy.co.in/">www.deccanrummy.co.in</a> at
+            their own risk, and we must not be held responsible for loss,
+            damages or any injury arising out of such responses.
           </li>
         </ul>
       </Container>

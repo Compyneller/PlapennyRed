@@ -76,7 +76,7 @@ const Privacy = () => {
             We assume that the players who are using the services provided by
             our website depict the following user consent, towards collection
             and usage of personal data by{" "}
-            <a href="www.playenny.in">www.playenny.in</a>.
+            <a href="https://deccanrummy.co.in/">www.deccanrummy.co.in</a>.
           </li>
           <li>
             Deccan Rummy reserves the right to modify the privacy policies or
@@ -96,12 +96,16 @@ const Privacy = () => {
           We do not encourage any participation or activity of any persons under
           the age of 18. In accordance with the law (Children's Online Privacy
           Act), a person under the age of eighteen is not allowed to play on{" "}
-          <a href="www.Deccan Rummy.in">www.Deccan Rummy.in</a> <br /> <br />
+          <a href="https://deccanrummy.co.in/">www.deccanrummy.co.in</a>. <br />{" "}
+          <br />
           In the event, if an underage person provides us with incorrect
           personal data, it’s the parent or guardian’s duty to contact us
           immediately at{" "}
-          <a href="mailto:support@paypenny.in">support@paypenny.in</a> and
-          request that such user accounts be deleted from our records forever.
+          <a href="mailto:deccanrummyhelp@gmail.com">
+            deccanrummyhelp@gmail.com
+          </a>{" "}
+          and request that such user accounts be deleted from our records
+          forever.
         </p>
         <br />
         <h5>Amendments</h5>
@@ -139,7 +143,9 @@ const Privacy = () => {
           Mr. Rishi Dubey is the Grievance Officer for Deccan Rummy. The user
           will have to send all complaints and criticisms related to personal
           data, to the Grievance Officer at{" "}
-          <a href="mailto:support@Deccan Rummy.in">support@Deccan Rummy.in</a>
+          <a href="mailto:deccanrummyhelp@gmail.com">
+            deccanrummyhelp@gmail.com
+          </a>
         </p>
       </Container>
       <Footer />

@@ -22,13 +22,15 @@ const TC = () => {
         <p>
           Any products or services relating to the games (referred to as
           Services) offered by Deccan Rummy and its subsidiaries, sister concern
-          and partners through our website www.deccanrummy.co.in (which will be
-          referred just as "Website") is framed with these Terms of Service
-          (affiliates which is referred to as the "Terms"). It includes Help,
-          Privacy Policy, Add Cash, My Account, Promotions and Bring-A-Friend
-          sections and the subsections of these sections on the Website. Players
-          are requested to comply with the terms and conditions and abide by it
-          even if any modifications to the terms and conditions are made. <br />
+          and partners through our website{" "}
+          <a href="https://deccanrummy.co.in/">www.deccanrummy.co.in</a>. (which
+          will be referred just as "Website") is framed with these Terms of
+          Service (affiliates which is referred to as the "Terms"). It includes
+          Help, Privacy Policy, Add Cash, My Account, Promotions and
+          Bring-A-Friend sections and the subsections of these sections on the
+          Website. Players are requested to comply with the terms and conditions
+          and abide by it even if any modifications to the terms and conditions
+          are made. <br />
           The decision to deal with a violation is entirely at the discretion of
           Deccan Rummy. Users are sternly warned to comply with the rules.{" "}
           <br />
@@ -568,7 +570,10 @@ const TC = () => {
         <h5>Discontinuing services</h5>
         <p>
           If a player desires to voluntarily discontinue the use of the Services
-          on our Website any time, they can email us at support@DeccanRummy.com.
+          on our Website any time, they can email us at{" "}
+          <a href="mailto:deccanrummyhelp@gmail.com">
+            deccanrummyhelp@gmail.com
+          </a>
           If there is a positive withdrawable cash balance in their user account
           that time, we will disburse your amount to you through online transfer
           subject to satisfactory verification process.
@@ -941,15 +946,18 @@ const TC = () => {
         <h5>Complaints & disputes</h5>
         <p>
           Complaints may be registered at the first instance by contacting our
-          customer support team at support@Deccan Rummy.com or by writing to us
-          in the “Contact Us” section. Players must act in haste if any if any
-          circumstances arise that is causing you to have a complaint. Deccan
-          Rummy would take our best efforts in resolving such complaints within
-          a reasonable span of time. Deccan Rummy’s decision on complaints would
-          be final and binding on the player who initiated the complaint.
-          Players must maintain the secrecy and resolution provided for their
-          complaints and should refrain from disclosing it to in any nature to
-          third parties.
+          customer support team at{" "}
+          <a href="mailto:deccanrummyhelp@gmail.com">
+            deccanrummyhelp@gmail.com
+          </a>{" "}
+          or by writing to us in the “Contact Us” section. Players must act in
+          haste if any if any circumstances arise that is causing you to have a
+          complaint. Deccan Rummy would take our best efforts in resolving such
+          complaints within a reasonable span of time. Deccan Rummy’s decision
+          on complaints would be final and binding on the player who initiated
+          the complaint. Players must maintain the secrecy and resolution
+          provided for their complaints and should refrain from disclosing it to
+          in any nature to third parties.
         </p>
       </Container>
       <Footer />

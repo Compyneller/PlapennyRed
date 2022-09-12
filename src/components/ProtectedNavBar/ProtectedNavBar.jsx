@@ -53,12 +53,12 @@ const ProtectedNavBar = ({ bg }) => {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 align-items-center pe-3">
-                  <Nav.Link href="/">Lobby</Nav.Link>
-                  <Nav.Link href="/promotion">My Account</Nav.Link>
-                  <Nav.Link href="/how-to-play">Bring a friend</Nav.Link>
-                  {/* <Nav.Link href="/leaderboard">Leader board</Nav.Link> */}
-                  <Nav.Link href="/leaderboard">Deccan Rummy Rewards</Nav.Link>
-                  <Nav.Link href="/leaderboard">Promotions Rewards</Nav.Link>
+                  <Nav.Link href="#">Lobby</Nav.Link>
+                  <Nav.Link href="#">My Account</Nav.Link>
+                  <Nav.Link href="#">Bring a friend</Nav.Link>
+                  <Nav.Link href="#">Leader board</Nav.Link>
+                  <Nav.Link href="#">Deccan Rummy Rewards</Nav.Link>
+                  <Nav.Link href="#">Promotions Rewards</Nav.Link>
                   <Nav.Link href="/login">
                     <Button variant="danger" onClick={handleLogout}>
                       Logout
